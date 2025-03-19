@@ -1,4 +1,3 @@
-```md
 # wcount 📄🔢  
 *A simple CLI tool to count words in a file*  
 
